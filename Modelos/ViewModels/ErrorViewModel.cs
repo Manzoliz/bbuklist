@@ -1,6 +1,6 @@
 using System;
 
-namespace BBuklist.Models
+namespace Modelos.ViewModels
 {
     public class ErrorViewModel
     {
